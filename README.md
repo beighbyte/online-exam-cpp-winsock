@@ -1,5 +1,9 @@
 # 🎓 Online Examination System — C++ Backend
 
+<p align="center">
+  <img src="https://iili.io/C3vf6LN.png" alt="Online Examination System Thumbnail">
+</p>
+
 A fully self-contained, high-performance **Online Examination System** built in modern modular **C++** that runs a live HTTP web server, serves a premium interactive browser-based exam portal, and maintains a local file-based database — all inside a standalone executable with no external database dependencies.
 
 ---
